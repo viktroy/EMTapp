@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4792F39D-B365-402F-B666-428D11F1D69A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EMTapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2EEDE750-5830-49B3-BD9A-2A2DA82AECE1</key>
+		<string>https://github.com/viktroy/EMTappProject</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EMTapp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2EEDE750-5830-49B3-BD9A-2A2DA82AECE1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/viktroy/EMTappProject</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2EEDE750-5830-49B3-BD9A-2A2DA82AECE1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2EEDE750-5830-49B3-BD9A-2A2DA82AECE1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EMTappProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
